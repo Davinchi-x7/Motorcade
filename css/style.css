@@ -327,7 +327,7 @@ ul.social_icon_top li a {
 }
 
 ul.social_icon_top li a:hover {
-     color: #fe9901;
+     color: #c80f0f;
 }
 
 .header_bottom {
@@ -835,7 +835,7 @@ ul.search li a:hover {
 }
 
 .social_icon_main {
-     background-color: #fe9901;
+     background-color: #030303;
      border-radius: 5px;
      padding: 20px;
 }
@@ -860,7 +860,7 @@ ul.social_icon_staff li a {
      font-size: 22px;
      border-radius: 30px;
      margin: 0 1px;
-     color: #fe9901;
+     color: #820303;
      background: #fff;
      width: 40px;
      height: 40px;
@@ -868,7 +868,7 @@ ul.social_icon_staff li a {
 
 ul.social_icon_staff li a:hover {
      color: #fff;
-     background: #1b1b1a;
+     background: #820303;
 }
 
 .staff_main .read_more {
